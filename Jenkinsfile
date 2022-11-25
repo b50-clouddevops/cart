@@ -2,4 +2,5 @@
 
 env.COMPONENT="cart" 
 env.APPTYPE="nodejs"
-nodejs()
+// nodejs() 
+docker()
