@@ -42,7 +42,7 @@ spec:
   selector:
     app: cart
   ports:
-  - name: name-of-service-port
+  - name: cart-port
     protocol: TCP
     port: 8080
     targetPort: 8080
